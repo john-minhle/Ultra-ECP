@@ -1,0 +1,38 @@
+# Python
+__pycache__/
+*.py[cod]
+*.egg-info/
+.venv/
+venv/
+.env
+
+# Data & outputs
+data/
+testing/
+training/
+validation/
+checkpoints/
+predictions/
+work_dir/
+show_dir/
+ultrasam_data/
+output*/
+*.png
+*.jpg
+
+# Models (download separately)
+UltraSam/
+*.pth
+*.pt
+*.ckpt
+
+# IDE & OS
+.idea/
+.vscode/
+.DS_Store
+Thumbs.db
+
+# Logs
+*.log
+training_log.txt
+test_ultraSAM.txt
