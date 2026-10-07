@@ -1,6 +1,6 @@
 # Ultra-ECP
 
-Parameter-efficient fine-tuning of **UltraSAM** for single-point fetal cardiac chamber segmentation on the [FOCUS]([https://zenodo.org/records/14597550]) dataset.
+Parameter-efficient fine-tuning of **UltraSAM** for single-point fetal cardiac chamber segmentation on the [FOCUS](https://zenodo.org/records/14597550) dataset.
 
 **Paper:** Le, M. et al. "Ultra-ECP." *MIDL 2026*.
 [Full paper (MLR Proceedings)](https://proceedings.mlr.press/v315/le26a.html) ·
